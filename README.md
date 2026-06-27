@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/hand-in-hand/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Hand in Hand](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hand-in-hand/) |
+| **Get License** | [Get a Licensing Quote for Hand in Hand](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hand-in-hand/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Wir cruisen durch die Straßen, die City ist unser Film
+> Dein Duft in der Nachtluft, Babe, ich geb' dir, was du willst
+> Die Reifen auf dem Asphalt, kein Limit, nur du und ich
+> Hand in Hand in der Dunkelheit, mein Fokus liegt auf dich
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
