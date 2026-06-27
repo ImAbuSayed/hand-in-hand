@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/hand-in-hand/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Hand in Hand](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hand-in-hand/) |
+| **Get License** | [Music Rights & Licensing for Hand in Hand](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hand-in-hand/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `241204a7a100ac3b3479d5f919a5381b220404a85b91d9a89d4763ec55718ff6` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
